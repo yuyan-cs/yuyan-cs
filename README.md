@@ -2,6 +2,8 @@
 
 I am interested in natural language processing. 
 
+Check: ⚡⚡⚡ https://github.com/yuyan-cs/nlp-state-of-the-art
+
 <!--
 **yuyan-cs/yuyan-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
